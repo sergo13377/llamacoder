@@ -75,7 +75,7 @@ export default function Home() {
             target="_blank"
           >
             <span className="text-center">
-              Powered by <span className="font-semibold">MakeApp AI</span>.
+              Powered by <span className="font-semibold">MakeApp AI</span>
               <span className="font-semibold"> </span>
             </span>
           </a>
