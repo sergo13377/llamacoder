@@ -5,7 +5,7 @@ import "./globals.css";
 let title = "MakeApp – AI Code Generator";
 let description = "Generate your next app with MakeAppAI";
 let url = "https://MakeAppAI.org/";
-let ogimage = "/og-image.png";
+let ogimage = "https://llamacoder-ten.vercel.app/og-image.png";
 let sitename = "MakeAppAI.org";
 
 export const metadata: Metadata = {
