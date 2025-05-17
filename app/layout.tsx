@@ -5,7 +5,7 @@ import "./globals.css";
 let title = "MakeApp – AI Code Generator";
 let description = "Generate your next app with MakeAppAI";
 let url = "https://MakeAppAI.org/";
-let ogimage = "https://MakeAppAI.org/og-image.png";
+let ogimage = "/og-image.png";
 let sitename = "MakeAppAI.org";
 
 export const metadata: Metadata = {
@@ -40,7 +40,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <head>
-        <PlausibleProvider domain="llamacoder.io" />
+        <PlausibleProvider domain="MakeAppAI.org" />
       </head>
 
       {children}
