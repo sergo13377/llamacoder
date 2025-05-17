@@ -361,7 +361,7 @@ export default function Home() {
   />
             </Link>
             <Link
-              href="https://t.me/MakeAppAI"
+              href="https://t.me/MakeAppAIOffcial"
               className="group"
               aria-label=""
             >
